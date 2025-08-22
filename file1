@@ -1,4 +1,4 @@
 a=10
 b=25
 res=a+b
-print(res) 
+print("Addition of a and b :",res) 
